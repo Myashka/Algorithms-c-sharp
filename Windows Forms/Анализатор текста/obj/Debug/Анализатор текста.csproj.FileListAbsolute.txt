@@ -1,0 +1,10 @@
+D:\Алгоритмы\WF\Анализатор текста\bin\Debug\Анализатор текста.exe.config
+D:\Алгоритмы\WF\Анализатор текста\bin\Debug\Анализатор текста.exe
+D:\Алгоритмы\WF\Анализатор текста\bin\Debug\Анализатор текста.pdb
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор текста.csprojAssemblyReference.cache
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор_текста.Main.resources
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор_текста.Properties.Resources.resources
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор текста.csproj.GenerateResource.cache
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор текста.exe
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор текста.pdb
+D:\Алгоритмы\WF\Анализатор текста\obj\Debug\Анализатор_текста.getLetterForm.resources

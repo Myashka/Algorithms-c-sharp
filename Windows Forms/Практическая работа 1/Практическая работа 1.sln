@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практическая работа 1", "Практическая работа 1.csproj", "{5728F36C-F30A-4362-AE6C-ADF8C60F1882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Анализатор текста", "..\Анализатор текста\Анализатор текста.csproj", "{57D60F33-A547-4449-B051-4EEAF55830B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5728F36C-F30A-4362-AE6C-ADF8C60F1882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5728F36C-F30A-4362-AE6C-ADF8C60F1882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5728F36C-F30A-4362-AE6C-ADF8C60F1882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5728F36C-F30A-4362-AE6C-ADF8C60F1882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D60F33-A547-4449-B051-4EEAF55830B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D60F33-A547-4449-B051-4EEAF55830B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D60F33-A547-4449-B051-4EEAF55830B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D60F33-A547-4449-B051-4EEAF55830B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA60A982-9B24-4AED-AD79-7383574700A7}
+	EndGlobalSection
+EndGlobal
