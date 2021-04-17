@@ -1,0 +1,22 @@
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Алгоритмы\Работа 4 (Графы)\Поиск в ширину и в глубину и алгоритм Дейкстры\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
